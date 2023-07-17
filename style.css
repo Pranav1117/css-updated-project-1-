@@ -120,7 +120,7 @@ color:#808080;
     border-radius: 10px;
     width: 30%;
     padding: 2%;
-    position: absolute;
+    position: fixed;
     top: 30%;
     left: 30%;
     background-color: white;
